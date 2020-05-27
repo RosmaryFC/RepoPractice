@@ -6,4 +6,14 @@ Used VIM to open up ReadME on terminal to add this in! VIM is what I've used to 
 
 trying to fix an issue with pushing to repo
 
-when I push remotely, terminal keeps asking for my github username and password. I know there is a way to cache it so I will be using this URL as a guide: https://help.github.com/en/github/using-git/caching-your-github-password-in-git
+when I push remotely, terminal keeps asking for my github username and password.
+I know there is a way to cache it so I will be using this URL as a guide: https://help.github.com/en/github/using-git/caching-your-github-password-in-git
+
+
+Testing to see if issue is fixed
+
+
+
+
+
+
